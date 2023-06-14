@@ -40,7 +40,7 @@ lvim.plugins = {
       require("todo-comments").setup()
     end
   },
--- TODO: Not configwred yet
+-- TODO: Not configured yet
 -- NOTE: It can save the opened tabs. Looks really usefull.
   -- {
   --   "folke/persistence.nvim",
