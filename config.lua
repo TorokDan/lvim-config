@@ -40,7 +40,7 @@ lvim.plugins = {
       require("todo-comments").setup()
     end
   },
--- TODO: Not configured yet
+-- TODO: Not configwred yet
 -- NOTE: It can save the opened tabs. Looks really usefull.
   -- {
   --   "folke/persistence.nvim",
@@ -59,3 +59,5 @@ lvim.plugins = {
 -- INFO: keybindings
 -- TODO: Need to configure whichkeys
 lvim.keys.insert_mode["jj"] = "<ESC>"
+
+-- INFO: whichkey
