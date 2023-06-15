@@ -29,6 +29,7 @@ lvim.plugins = {
   -- themes
   -- NOTE: At first i had to put the "lazy = false" in the theme, or the theme swither couldn't find it
   { "folke/tokyonight.nvim" },
+  { "tribela/vim-transparent" },
 
   {
     -- TODO: I need to look up what type of tags there are for this plugin.
