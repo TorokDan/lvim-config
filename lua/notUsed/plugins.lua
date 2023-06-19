@@ -11,4 +11,11 @@ lvim.plugins = {
       })
     end
   },
+  -- NOTE: It is for the escape with "jj" characters.
+  {
+    "max397574/better-escape.nvim",
+    config = function ()
+      require("better_escape").setup()
+    end,
+  },
 }

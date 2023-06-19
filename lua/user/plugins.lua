@@ -1,10 +1,11 @@
+  -- TODO: I should add harpoon later. first check out ThePRimeagen video about it. I think there is one.
+  -- TODO: Add phaazon/hop.nvim. I want to practice the basic movements first.
+
 lvim.plugins = {
   { "christoomey/vim-tmux-navigator" },
   -- NOTE: Just check the docs.... it is usefull
   -- vim repeat is connecting to it as well
   { "tpope/vim-surround" },
-  -- TODO: I should add harpoon later. first check out ThePRimeagen video about it. I think there is one.
-  -- TODO: Add phaazon/hop.nvim. I want to practice the basic movements first.
 
   -- INFO: themes
   -- NOTE: At first i had to put the "lazy = false" in the theme, or the theme swither couldn't find it
